@@ -18,15 +18,13 @@ This repository contains the code for a fully functional online store built with
 
 ## Getting Started
 
-To get started with the Next.js Online Store project, follow these steps:
-
-1. Clone the repository: `git clone https://github.com/laribright/nextjs-sanity-shop.git` <br>
+To get started with the Next.js Online Store frontend project, follow these steps:
 
 Frontend <br>
-2. Install the dependencies: `npm install` <br>
-3. Set up the required environment variables (see `.env.example` file). <br>
-4. Run the application: `npm run dev` <br>
-5. Open your browser and visit: `http://localhost:3000` <br>
+1. Install the dependencies: `npm install` <br>
+2. Set up the required environment variables (see `.env.example` file). <br>
+3. Run the application: `npm run dev` <br>
+4. Open your browser and visit: `http://localhost:3000` <br>
 <br>
 
 ## Contact
